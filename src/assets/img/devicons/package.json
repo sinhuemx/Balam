@@ -1,0 +1,29 @@
+{
+  "name": "devicons",
+  "description": "An iconic font made for developers",
+  "version": "1.8.0",
+  "jsdelivr": "css/devicons.min.css",
+  "keywords": ["font", "icons", "devicons", "glyphs" ],
+  "bugs": {
+    "url" : "http://github.com/vorillaz/devicons/issues"
+  },
+  "author": {
+    "name": "teoremastudio",
+    "web": "http://teorema.studio"
+  },
+  "repository": {
+    "type": "git",
+    
+  },
+  "licenses": 
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.html"
+    }
+  ,
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
